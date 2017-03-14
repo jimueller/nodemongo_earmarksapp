@@ -1,0 +1,2901 @@
+[{
+    "ACCOUNT_TITLE": "Other Federal Drug Control Programs",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 26,
+        "COMMITTEENAME": "Financial Services and General Government"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Federal Drug Control Programs",
+    "AMT_SF": 0,
+    "IDSPONSOR": 442,
+    "AMT_CONF": 1250,
+    "AMT_SC": 1250,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 302978,
+    "SC_F_CTTN_EXCERPT": "\"For activities to support a national anti-drug campaign for youth, and for other purposes, authorized by the Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109-469), $204,250,000, to remain available until expended, of which the amounts are available as follows: ...$1,250,000 for the National Alliance for Model State Drug Laws;\"",
+    "IDSPENDINGCOMMITTEE": 26,
+    "SHORT_DESCRIPTION": "National Alliance for Model State Drug Laws",
+    "EARMARK_DESCRIPTION": "National Alliance for Model State Drug Laws",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Federal Drug Control Programs",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 442,
+        "LASTNAME": "Rogers",
+        "HONORIFIC": "Representative",
+        "STATE": "KY",
+        "FIRSTNAME": "Harold"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 309,
+    "AMT_CONF": 400,
+    "AMT_SC": 400,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303002,
+    "SC_F_CTTN_EXCERPT": "\"The Committee provides funding for the following congressionally directed projects, and directs the International Trade Administration to refrain from charging administrative costs to these grants.  The Committee expects that International Trade Administation will provide appropriate management and oversight of each grant.  Vermont Global Trade Partnership, to assist small business to participate in trade missions $400,000; and the National Textile Center Auburn University to continue and enhance research related to the textile industry $1,000,000.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Vermont Global Trade Partnership",
+    "EARMARK_DESCRIPTION": "Vermont's Center for International Assistance - The center works with the Department of Economic Development to provide consulting services to help Vermont businesses enter international markets.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 309,
+        "LASTNAME": "Leahy",
+        "HONORIFIC": "Senator",
+        "STATE": "VT",
+        "FIRSTNAME": "Patrick"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 3,
+    "AMT_CONF": 1000,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303003,
+    "SC_F_CTTN_EXCERPT": "\"The Committee provides funding for the following congressionally directed projects, and directs the International Trade Administration to refrain from charging administrative costs to these grants.  The Committee expects that International Trade Administation will provide appropriate management and oversight of each grant.  Vermont Global Trade Partnership, to assist small business to participate in trade missions $400,000; and the National Textile Center Auburn University to continue and enhance research related to the textile industry $1,000,000.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "National Textile Center Auburn University",
+    "EARMARK_DESCRIPTION": "\"The National Textile Denter (NTC) is a research consortium of eight universities:  Auburn University, Clemson University, Cornell University, Georgia Insititute of Technology, North Carolina State University, University of california, Davis, UMass - Dartmouth, and Philadelphia University that researches new textile fibers.  The institutions share human resources, equipment, and facilities.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 3,
+        "LASTNAME": "Aderholt",
+        "HONORIFIC": "Representative",
+        "STATE": "AL",
+        "FIRSTNAME": "Robert"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Acquisition, Construction, Improvements and Related Expenses\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Federal Law Enforcement Training Center",
+    "AMT_SF": 0,
+    "IDSPONSOR": 147,
+    "AMT_CONF": 3000,
+    "AMT_SC": 3000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303104,
+    "SC_F_CTTN_EXCERPT": "\"...$3,000,000 is for construction of training and related facilities at Artesia, New Mexico.\"",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "FLETC Artesia Training Facilities",
+    "EARMARK_DESCRIPTION": "\"P.L. 110-329 provides $86,456,000 for Acquisitions, Construction, Improvements, and Related Expenses.  Of this amount, $3,000,000 is for construction of training related facilities at Artesia, New Mexico.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 147,
+        "LASTNAME": "Domenici",
+        "HONORIFIC": "Senator",
+        "STATE": "NM",
+        "FIRSTNAME": "Pete"
+    },
+    "AMT_HC": ""
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 255,
+    "AMT_CONF": 100,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303171,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "National Textile Center University of Georgia, Atlanta GA",
+    "EARMARK_DESCRIPTION": "\"The National Textile Denter (NTC) is a research consortium of eight universities:  Auburn University, Clemson University, Cornell University, Georgia Insititute of Technology, North Carolina State University, University of California, Davis, UMass - Dartmouth, and Philadelphia University that researches new textile fibers.  The institutions share human resources, equipment, and facilities.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 255,
+        "LASTNAME": "Isakson",
+        "HONORIFIC": "Senator",
+        "STATE": "GA",
+        "FIRSTNAME": "Johnny"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Operating Expenses",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 72,
+    "AMT_CONF": 3600,
+    "AMT_SC": 3600,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303181,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Operations Systems Center (OSC) Expansion Project",
+    "EARMARK_DESCRIPTION": "\"The recommendation includes $3,600,000 for customized tenant improvements in conjunction with the Operations Systems Center (OSC) expansion project.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 72,
+        "LASTNAME": "Byrd",
+        "HONORIFIC": "Senator",
+        "STATE": "WV",
+        "FIRSTNAME": "Robert"
+    },
+    "AMT_HC": ""
+}, {
+    "ACCOUNT_TITLE": "\"Acquisition, Construction, and Improvements\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "Appropriations Report Language",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 70,
+    "AMT_CONF": 15000,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303200,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Rescue Swimmer Training Facility Moderization",
+    "EARMARK_DESCRIPTION": "\"An additional $15,000 is recommended to fund a modular egress training simulator as part of the Rescue Swimmer Training Facility moderization.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 70,
+        "LASTNAME": "Butterfield",
+        "HONORIFIC": "Representative",
+        "STATE": "NC",
+        "FIRSTNAME": "G.K."
+    },
+    "AMT_HC": 15000
+}, {
+    "ACCOUNT_TITLE": "\"Acquisition, Construction, and Improvements\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "Appropriations Report Language",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 233,
+    "AMT_CONF": 3000,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303203,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Consolidation of Sector Buffalo",
+    "EARMARK_DESCRIPTION": "\"An additional $3,000,000 is provided to continue the consolidation of Sector Buffalo.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 233,
+        "LASTNAME": "Higgins",
+        "HONORIFIC": "Representative",
+        "STATE": "NY",
+        "FIRSTNAME": "Brian"
+    },
+    "AMT_HC": 3000
+}, {
+    "ACCOUNT_TITLE": "Customs and Border Protection",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Customs and Border Protection",
+    "AMT_SF": 0,
+    "IDSPONSOR": 382,
+    "AMT_CONF": 4500,
+    "AMT_SC": 4500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303220,
+    "SC_F_CTTN_EXCERPT": "\"of which $4,500,000, shall be for the 2010 Olympics Coordination Center, of which not to exceed $2,000,000 shall be available until September 30, 2010;\"",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "CBP 2010 Olympics Coordination Center",
+    "EARMARK_DESCRIPTION": "\"$4,500,000 for the 2010 Olympics Cordination Center.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 382,
+        "LASTNAME": "Murray",
+        "HONORIFIC": "Senator",
+        "STATE": "WA",
+        "FIRSTNAME": "Patty"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Customs and Border Protection",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "Appropriations Report Language",
+    "BUREAU_TITLE": "Customs and Border Protection",
+    "AMT_SF": 0,
+    "IDSPONSOR": 204,
+    "AMT_CONF": 2000,
+    "AMT_SC": 0,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 303221,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "CBP Project SeaHawk",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 204,
+        "LASTNAME": "Graham",
+        "HONORIFIC": "Senator",
+        "STATE": "SC",
+        "FIRSTNAME": "Lindsey"
+    },
+    "AMT_HC": 2000
+}, {
+    "ACCOUNT_TITLE": "Office of the Chief Information Officer",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Departmental Management and Operations",
+    "AMT_SF": 0,
+    "IDSPONSOR": 102,
+    "AMT_CONF": 22300,
+    "AMT_SC": 22300,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304680,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "National Center for Critical Information Processing and Storage",
+    "EARMARK_DESCRIPTION": "\"DHS-CIO received Earmark of $22.3M to support \"costs of transition to the National Center for Critical Information Processing and Storage\" located in Stennis, Mississippi.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 102,
+        "LASTNAME": "Cochran",
+        "HONORIFIC": "Senator",
+        "STATE": "MS",
+        "FIRSTNAME": "Thad"
+    },
+    "AMT_HC": ""
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 236,
+    "AMT_CONF": 200,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304773,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "National Textile Center Cornell University, Ithaca, NY",
+    "EARMARK_DESCRIPTION": "\"The National Textile Denter (NTC) is a research consortium of eight universities:  Auburn University, Clemson University, Cornell University, Georgia Insititute of Technology, North Carolina State University, University of california, Davis, UMass - Dartmouth, and Philadelphia University that researches new textile fibers.  The institutions share human resources, equipment, and facilities.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 236,
+        "LASTNAME": "Hinchey",
+        "HONORIFIC": "Representative",
+        "STATE": "NY",
+        "FIRSTNAME": "Maurice"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 553,
+    "AMT_CONF": 100,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304774,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "National Textile Center Cornell / TC 2 Raleigh NC Carey NC",
+    "EARMARK_DESCRIPTION": "\"The National Textile Denter (NTC) is a research consortium of eight universities:  Auburn University, Clemson University, Cornell University, Georgia Insititute of Technology, North Carolina State University, University of California, Davis, UMass - Dartmouth, and Philadelphia University that researches new textile fibers.  The institutions share human resources, equipment, and facilities.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 553,
+        "LASTNAME": "Watt",
+        "HONORIFIC": "Representative",
+        "STATE": "NC",
+        "FIRSTNAME": "Melvin"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 186,
+    "AMT_CONF": 250,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304783,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "National Textile Center program, Spring House PA",
+    "EARMARK_DESCRIPTION": "\"The National Textile Denter (NTC) is a research consortium of eight universities:  Auburn University, Clemson University, Cornell University, Georgia Insititute of Technology, North Carolina State University, University of california, Davis, UMass - Dartmouth, and Philadelphia University that researches new textile fibers.  The institutions share human resources, equipment, and facilities.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 186,
+        "LASTNAME": "Frank",
+        "HONORIFIC": "Representative",
+        "STATE": "MA",
+        "FIRSTNAME": "Barney"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 421,
+    "AMT_CONF": 1000,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304785,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "North Carolina State Textile Research, North Carolina State University, Raleigh, NC",
+    "EARMARK_DESCRIPTION": "Provides funding to the NC State College of Textiles.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 421,
+        "LASTNAME": "Price",
+        "HONORIFIC": "Representative",
+        "STATE": "NC",
+        "FIRSTNAME": "David"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 383,
+    "AMT_CONF": 350,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304786,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "St. Francis University Center for Global Competitiveness at St. Francis Univ and St Vincent Univ, Loretto and Latrobe, PA",
+    "EARMARK_DESCRIPTION": "\"The Center for Global Competitiveness (CGC) provides marketing assistance to small and medium sized businesses in a ten county region in Pennsylvania. These counties include Bedford, Blair, Cambria, Centre, Fayette, Fulton, Huntingdon, Somerset, Indiana, and Westmoreland counties.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 383,
+        "LASTNAME": "Murtha",
+        "HONORIFIC": "Representative",
+        "STATE": "PA",
+        "FIRSTNAME": "John"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Operations and Administration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "International Trade Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 421,
+    "AMT_CONF": 1000,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304788,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "TC2 Textile Research Textile Clothing Technology Corporation Cary NC",
+    "EARMARK_DESCRIPTION": "\"From: http://www.tc2.com/ TC2.  A recognized provider of solutions for the sewn products and related soft goods industries specializing in technology development and supply chain improvement. TC2 drives the future of the global apparel, soft goods, and sewn products industries with research and consulting products and services focused on technology development and supply chain improvement. Our initiatives include the broad investigation and demonstration of supporting technologies; education, training and consulting services to strategically and tactically implement business practices; and research and development of technology voids.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 421,
+        "LASTNAME": "Price",
+        "HONORIFIC": "Representative",
+        "STATE": "NC",
+        "FIRSTNAME": "David"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Minority Business Development",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Minority Business Development Agency",
+    "AMT_SF": 0,
+    "IDSPONSOR": 49,
+    "AMT_CONF": 175,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304800,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Minority Business Development Grant - Oklahoma",
+    "EARMARK_DESCRIPTION": "REI Business and Resource Center at Eastern Oklahoma State College",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 49,
+        "LASTNAME": "Boren",
+        "HONORIFIC": "Representative",
+        "STATE": "OK",
+        "FIRSTNAME": "Dan"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Minority Business Development",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Minority Business Development Agency",
+    "AMT_SF": 0,
+    "IDSPONSOR": 268,
+    "AMT_CONF": 150,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304801,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Minority Business Development Grant - Ohio",
+    "EARMARK_DESCRIPTION": "Northeast Ohio Minority Business Attraction Initiative",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 268,
+        "LASTNAME": "Jones",
+        "HONORIFIC": "Representative",
+        "STATE": "OH",
+        "FIRSTNAME": "Stephanie"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Minority Business Development",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Minority Business Development Agency",
+    "AMT_SF": 0,
+    "IDSPONSOR": 372,
+    "AMT_CONF": 500,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304802,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Minority Business Development Grant - West Virginia",
+    "EARMARK_DESCRIPTION": "Emerging Minority Business Leaders",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 372,
+        "LASTNAME": "Mollohan",
+        "HONORIFIC": "Representative",
+        "STATE": "WV",
+        "FIRSTNAME": "Alan"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Scientific and Technical Research and Services",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Institute of Standards and Technology",
+    "AMT_SF": 0,
+    "IDSPONSOR": 473,
+    "AMT_CONF": 1000,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304876,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "New York Center for National Competitiveness in Nanoscale Characterization",
+    "EARMARK_DESCRIPTION": "This earmark is for a Nanoscale fabrication and measurement project at the University of Albany College of Nanoscale Science & Engineering",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 473,
+        "LASTNAME": "Schumer",
+        "HONORIFIC": "Senator",
+        "STATE": "NY",
+        "FIRSTNAME": "Charles"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Scientific and Technical Research and Services",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Institute of Standards and Technology",
+    "AMT_SF": 0,
+    "IDSPONSOR": 80,
+    "AMT_CONF": 2000,
+    "AMT_SC": 2000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304877,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "UMBC/UMCP Ultrafast Dynamics for Next Generation Nanotechnology",
+    "EARMARK_DESCRIPTION": "\"While nanoscale R&D aims mainly at tiny spacial dimensions, new methods to measure ultrafast phenomena in these systems will substantially improve our ability to understand, control, and apply nanotechnology, leading to advances in electronics, energy, medicine, communications, and materials.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 80,
+        "LASTNAME": "Cardin",
+        "HONORIFIC": "Senator",
+        "STATE": "MD",
+        "FIRSTNAME": "Benjamin"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Construction of Research Facilities",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Institute of Standards and Technology",
+    "AMT_SF": 0,
+    "IDSPONSOR": 485,
+    "AMT_CONF": 30000,
+    "AMT_SC": 30000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304878,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "University of Alabama Interdisciplinary Science and Engineering Teaching and Research Center",
+    "EARMARK_DESCRIPTION": "For the construction of an interdisciplinary science and engineering teaching and research corridor at the University of Alabama.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 485,
+        "LASTNAME": "Shelby",
+        "HONORIFIC": "Senator",
+        "STATE": "AL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Construction of Research Facilities",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Institute of Standards and Technology",
+    "AMT_SF": 0,
+    "IDSPONSOR": 102,
+    "AMT_CONF": 6500,
+    "AMT_SC": 6500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304879,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Mississippi State University for expansion of the Research, Technology, and Economic Development Park",
+    "EARMARK_DESCRIPTION": "\"For construction of the Thad Cochran Research, Technology, and Economic Development Park at MSU.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 102,
+        "LASTNAME": "Cochran",
+        "HONORIFIC": "Senator",
+        "STATE": "MS",
+        "FIRSTNAME": "Thad"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Construction of Research Facilities",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Institute of Standards and Technology",
+    "AMT_SF": 0,
+    "IDSPONSOR": 102,
+    "AMT_CONF": 6500,
+    "AMT_SC": 6500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304897,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "University of Mississippi Medical Center",
+    "EARMARK_DESCRIPTION": "For construction of the Biotechnology Research Park at the University of Mississippi Medical Center.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 102,
+        "LASTNAME": "Cochran",
+        "HONORIFIC": "Senator",
+        "STATE": "MS",
+        "FIRSTNAME": "Thad"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Construction of Research Facilities",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Institute of Standards and Technology",
+    "AMT_SF": 0,
+    "IDSPONSOR": 102,
+    "AMT_CONF": 1000,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 304898,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "University of Southern Mississippi for a Formulation Science Building",
+    "EARMARK_DESCRIPTION": "\"To create, develop, and commercialize new technology for advanced materials at the University of Southern Mississippi.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 102,
+        "LASTNAME": "Cochran",
+        "HONORIFIC": "Senator",
+        "STATE": "MS",
+        "FIRSTNAME": "Thad"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Railroad Research and Development",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 29,
+        "COMMITTEENAME": "Transportation and Housing and Urban Development"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Federal Railroad Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 515,
+    "AMT_CONF": 475,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 306288,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 29,
+    "SHORT_DESCRIPTION": "Ohio Cleveland-Columbus Rail Corridor EIS",
+    "EARMARK_DESCRIPTION": "Environmental Impact Statement for Ohio rail project",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Transportation",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 515,
+        "LASTNAME": "Sutton",
+        "HONORIFIC": "Representative",
+        "STATE": "OH",
+        "FIRSTNAME": "Betty"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Railroad Research and Development",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 29,
+        "COMMITTEENAME": "Transportation and Housing and Urban Development"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Federal Railroad Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 72,
+    "AMT_CONF": 475,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 306434,
+    "SC_F_CTTN_EXCERPT": "Track Stability Technology:  Marshall Unv and WVU",
+    "IDSPENDINGCOMMITTEE": 29,
+    "SHORT_DESCRIPTION": "Track Stability Technology:  Marshall Unv and WVU",
+    "EARMARK_DESCRIPTION": "Track Stability Technology:  for the development of new track stability technologies using the State's rail lines as the test bed for calibrations.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Transportation",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 72,
+        "LASTNAME": "Byrd",
+        "HONORIFIC": "Senator",
+        "STATE": "WV",
+        "FIRSTNAME": "Robert"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Railroad Research and Development",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 29,
+        "COMMITTEENAME": "Transportation and Housing and Urban Development"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Federal Railroad Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 72,
+    "AMT_CONF": 238,
+    "AMT_SC": 250,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 306435,
+    "SC_F_CTTN_EXCERPT": "WVU Constructed Facilities Center",
+    "IDSPENDINGCOMMITTEE": 29,
+    "SHORT_DESCRIPTION": "WVU Constructed Facilities Center",
+    "EARMARK_DESCRIPTION": "Constructed Facilities Center WVU:  for the development of safe construction and maintenance practices that utlize advanced blast materials and structural systems.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Transportation",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 72,
+        "LASTNAME": "Byrd",
+        "HONORIFIC": "Senator",
+        "STATE": "WV",
+        "FIRSTNAME": "Robert"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Railroad Research and Development",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 29,
+        "COMMITTEENAME": "Transportation and Housing and Urban Development"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Federal Railroad Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 156,
+    "AMT_CONF": 475,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 306436,
+    "SC_F_CTTN_EXCERPT": "PEERS Rail Grade Crossing Safety programs:  to improve rail-grade corssing through education and enforcement activities",
+    "IDSPENDINGCOMMITTEE": 29,
+    "SHORT_DESCRIPTION": "PEERS, IL",
+    "EARMARK_DESCRIPTION": "PEERS Rail Grade Crossing Safety programs:  to improve rail-grade corssing through education and enforcement activities",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Transportation",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 156,
+        "LASTNAME": "Durbin",
+        "HONORIFIC": "Senator",
+        "STATE": "IL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Repairs and Restoration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 26,
+        "COMMITTEENAME": "Financial Services and General Government"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Archives and Records Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 196,
+    "AMT_CONF": 17500,
+    "AMT_SC": "",
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 307312,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 26,
+    "SHORT_DESCRIPTION": "Franklin D. Roosevelt Presidential Library and Museum Renovation",
+    "EARMARK_DESCRIPTION": "\"Funding provided in 2009 is for repair and renovation of the Library, which is identified as NARA's highest priority capital improvement need\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "National Archives and Records Administration",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 196,
+        "LASTNAME": "Gillibrand",
+        "HONORIFIC": "Representative",
+        "STATE": "NY",
+        "FIRSTNAME": "Kirsten"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Repairs and Restoration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 26,
+        "COMMITTEENAME": "Financial Services and General Government"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Archives and Records Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 278,
+    "AMT_CONF": 22000,
+    "AMT_SC": 22000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 307315,
+    "SC_F_CTTN_EXCERPT": "\"Provided, That the Archivist is authorized to construct anaddition to the John F. Kennedy Presidential Library andMuseum; and of the funds provided, $22,000,000 shall beavailable for construction costs and related services forbuilding the addition to the John F. Kennedy PresidentialLibrary and Museum and other necessary expenses, including renovating the Library as needed in constructing the addition;...\"",
+    "IDSPENDINGCOMMITTEE": 26,
+    "SHORT_DESCRIPTION": "John F. Kennedy Presidential Library Expansion",
+    "EARMARK_DESCRIPTION": "Funds provided in 2009 will support the construction of a new addition to the library",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "National Archives and Records Administration",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 278,
+        "LASTNAME": "Kerry",
+        "HONORIFIC": "Senator",
+        "STATE": "MA",
+        "FIRSTNAME": "John"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Repairs and Restoration",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 26,
+        "COMMITTEENAME": "Financial Services and General Government"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Archives and Records Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 250,
+    "AMT_CONF": 2000,
+    "AMT_SC": 2000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 307316,
+    "SC_F_CTTN_EXCERPT": "\"... and $2,000,000 is for the repair and restoration of the plaza that surrounds the Lyndon Baines Johnson Presidential Library and Museum that is under thejoint control and custody of the University of Texas: Provided further, That such funds shall remain available untilexpended for this purpose and may be transferred directlyto the University and used, together with Universityfunds, for the repair and restoration of the plaza: Providedfurther, That such funds shall be spent in accordance withthe construction plan submitted to the Committees on Appropriations on March 14, 2005: Provided further, Thatthe Archivist shall be prohibited from entering into anyagreement with the University or any other party that requires additional funding commitments on behalf of the Federal Government for this project: Provided further,That hereafter, no further Federal funding shall be provided for this plaza project.\"",
+    "IDSPENDINGCOMMITTEE": 26,
+    "SHORT_DESCRIPTION": "Lyndon B. Johnson Presidential Library Plaza Replacement",
+    "EARMARK_DESCRIPTION": "\"Replacement, down to the structural slab, of the plaza that surrounds the Lyndon B. Johnson Presidential Library to ensure proper drainage and prevent future water damage.  Project in conjunction with University of Texas.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "National Archives and Records Administration",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 250,
+        "LASTNAME": "Hutchison",
+        "HONORIFIC": "Senator",
+        "STATE": "TX",
+        "FIRSTNAME": "Kay"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Alteration of Bridges",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "Appropriations Report Language",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 485,
+    "AMT_CONF": 4000,
+    "AMT_SC": 3750,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 311556,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Fourteen Mile Bridge, Mobile, AL",
+    "EARMARK_DESCRIPTION": "\"Fourteen Mile Bridge, Mobile, AL\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 485,
+        "LASTNAME": "Shelby",
+        "HONORIFIC": "Senator",
+        "STATE": "AL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 5000
+}, {
+    "ACCOUNT_TITLE": "Alteration of Bridges",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "Appropriations Report Language",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 222,
+    "AMT_CONF": 2000,
+    "AMT_SC": 2125,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 311557,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Burlington Northern Railroad Bridge, Burlington, IA",
+    "EARMARK_DESCRIPTION": "\"Burlington Northern Railroad Bridge, Burlington, IA\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 222,
+        "LASTNAME": "Harkin",
+        "HONORIFIC": "Senator",
+        "STATE": "IA",
+        "FIRSTNAME": "Tom"
+    },
+    "AMT_HC": 2000
+}, {
+    "ACCOUNT_TITLE": "Alteration of Bridges",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "Appropriations Report Language",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 123,
+    "AMT_CONF": 4000,
+    "AMT_SC": 3750,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 311558,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Galveston Causeway Bridge, Galveston, TX",
+    "EARMARK_DESCRIPTION": "\"Galveston Causeway Bridge, Galveston, TX\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 123,
+        "LASTNAME": "Culberson",
+        "HONORIFIC": "Representative",
+        "STATE": "TX",
+        "FIRSTNAME": "John"
+    },
+    "AMT_HC": 5000
+}, {
+    "ACCOUNT_TITLE": "Alteration of Bridges",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 156,
+    "AMT_CONF": 2000,
+    "AMT_SC": 2125,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 311559,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Elgin, Joliet, and Eastern Railway Company Bridge",
+    "EARMARK_DESCRIPTION": "\"Elgin, Joliet, and Eastern Railway Company Bridge\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 156,
+        "LASTNAME": "Durbin",
+        "HONORIFIC": "Senator",
+        "STATE": "IL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Alteration of Bridges",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 276,
+    "AMT_CONF": 2000,
+    "AMT_SC": 2125,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 311560,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Chelsea Street Bridge",
+    "EARMARK_DESCRIPTION": "Chelsea Street Bridge",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 276,
+        "LASTNAME": "Kennedy",
+        "HONORIFIC": "Senator",
+        "STATE": "MA",
+        "FIRSTNAME": "Edward"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Alteration of Bridges",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 28,
+        "COMMITTEENAME": "Homeland Security"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "United States Coast Guard",
+    "AMT_SF": 0,
+    "IDSPONSOR": 291,
+    "AMT_CONF": 2000,
+    "AMT_SC": 2125,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 311561,
+    "SC_F_CTTN_EXCERPT": "",
+    "IDSPENDINGCOMMITTEE": 28,
+    "SHORT_DESCRIPTION": "Canadian Pacific Railway Bridge",
+    "EARMARK_DESCRIPTION": "Canadian Pacific Railway Bridge",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Homeland Security",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 291,
+        "LASTNAME": "Kohl",
+        "HONORIFIC": "Senator",
+        "STATE": "WI",
+        "FIRSTNAME": "Herb"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "General Departmental Management",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 30,
+        "COMMITTEENAME": "Labor, Health and Human Services, and Education"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Departmental Management",
+    "AMT_SF": 0,
+    "IDSPONSOR": 222,
+    "AMT_CONF": 714,
+    "AMT_SC": 750,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 313090,
+    "SC_F_CTTN_EXCERPT": "\"Community Transportation Association of America, Washington DC, for technical assistance to human services transportation providers on ADA requirements\"",
+    "IDSPENDINGCOMMITTEE": 30,
+    "SHORT_DESCRIPTION": "Community Transportation Association of America, Washington DC, for technical assistance to human services transportation providers on ADA",
+    "EARMARK_DESCRIPTION": "\"Community Transportation Assistance Project is designed to proivded information and support services to states, local communities, transportation advocates, planners, funders, passengers and human service transportation providers in support of community transportation.  Develop and maintain CTAP information web-site, libraries on information, human service transit information dssemination, publications and carry-out national support activities.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Health and Human Services",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 222,
+        "LASTNAME": "Harkin",
+        "HONORIFIC": "Senator",
+        "STATE": "IA",
+        "FIRSTNAME": "Tom"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "General Departmental Management",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 30,
+        "COMMITTEENAME": "Labor, Health and Human Services, and Education"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Departmental Management",
+    "AMT_SF": 0,
+    "IDSPONSOR": 276,
+    "AMT_CONF": 238,
+    "AMT_SC": 250,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 313091,
+    "SC_F_CTTN_EXCERPT": "\"Commonwealth of Massachusetts, Department of Public Health, Boston, MA, for the continued development of a program to reduce health disparities and infant mortality\"",
+    "IDSPENDINGCOMMITTEE": 30,
+    "SHORT_DESCRIPTION": "Commonwealth of Massachusetts, Department of Public Health, Boston, MA, for the continued development of a program to reduce health disparities and infant mortality",
+    "EARMARK_DESCRIPTION": "\"The goal of this project is to reduce disparities in infant mortality experienced by racial, ethnic, and linguistic minority populations in the Western and Central regions of massachusetts through targeted community and organization education and skills/capacity building.  The recipient supports local municipalities in identifying specific, local institutional factors that may result in disparities or masks disparities and design an effective approach that addresses potential institutional level factors.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Health and Human Services",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 276,
+        "LASTNAME": "Kennedy",
+        "HONORIFIC": "Senator",
+        "STATE": "MA",
+        "FIRSTNAME": "Edward"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Payments to States and Possessions",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 31,
+        "COMMITTEENAME": "Agriculture and Rural Development"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Agricultural Marketing Service",
+    "AMT_SF": 0,
+    "IDSPONSOR": 291,
+    "AMT_CONF": 338,
+    "AMT_SC": 360,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 313253,
+    "SC_F_CTTN_EXCERPT": "\"The Committee directs that $360,000 beprovided to the Wisconsin Department of Agriculture, Trade andConsumer Protection to provide food safety training; technical assistancefor market and business planning; and assistance for producerswith packaging, label development, and market distributionfor specialty meat products\"",
+    "IDSPENDINGCOMMITTEE": 31,
+    "SHORT_DESCRIPTION": "Grant to Wisconsin Dept. of Agriculture for specialty meat products",
+    "EARMARK_DESCRIPTION": "\"Specialty markets, Wisconsin Department of Agriculture, Trade, and Consumer Protection\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Agriculture",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 291,
+        "LASTNAME": "Kohl",
+        "HONORIFIC": "Senator",
+        "STATE": "WI",
+        "FIRSTNAME": "Herb"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "Rural Cooperative Development Grants",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 31,
+        "COMMITTEENAME": "Agriculture and Rural Development"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "Rural Business_Cooperative Service",
+    "AMT_SF": 0,
+    "IDSPONSOR": 23,
+    "AMT_CONF": 2582,
+    "AMT_SC": 2774,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 316803,
+    "SC_F_CTTN_EXCERPT": "\"For rural cooperative development grants authorized under section 310B(e) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932), $25,114,000, of which... $2,774,000 shall be for cooperative agreements for the appropriate technology transfer for rural areas program\"",
+    "IDSPENDINGCOMMITTEE": 31,
+    "SHORT_DESCRIPTION": "Appropriate Technology Transfer for Rural Areas (ATTRA)",
+    "EARMARK_DESCRIPTION": "\"Shall be used for cooperatives or associations of cooperatives whose primary focus is to provide assistance to small, minority producers and whose governing board and/or membership is comprised of at least 75 percent minority\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Agriculture",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 23,
+        "LASTNAME": "Baucus",
+        "HONORIFIC": "Senator",
+        "STATE": "MT",
+        "FIRSTNAME": "Max"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 5,
+    "AMT_CONF": 360,
+    "AMT_SC": 360,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319444,
+    "SC_F_CTTN_EXCERPT": "Hi Rain Gages",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Hawaii Rain Gages",
+    "EARMARK_DESCRIPTION": "Provides funding for establishing new rain gages for the state of hawaii.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 5,
+        "LASTNAME": "Akaka",
+        "HONORIFIC": "Senator",
+        "STATE": "HI",
+        "FIRSTNAME": "Daniel"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 253,
+    "AMT_CONF": 1500,
+    "AMT_SC": 1500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319445,
+    "SC_F_CTTN_EXCERPT": "\"Hawaii Seafood Safety and Sustainability, HI\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Hawaii Seafood Safety and Sustainability, HI",
+    "EARMARK_DESCRIPTION": "Funds provide assistance for the Hawaii fishing and seafood industries to comply with FDA seafood regulations.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 253,
+        "LASTNAME": "Inouye",
+        "HONORIFIC": "Senator",
+        "STATE": "HI",
+        "FIRSTNAME": "Daniel"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 186,
+    "AMT_CONF": 1000,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319446,
+    "SC_F_CTTN_EXCERPT": "\"Scallop Fishery Assessment, MA\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Scallop Fishery Assessment, MA",
+    "EARMARK_DESCRIPTION": "\"This would provide a grant to the University of Massachusetts, Dartmouth to examine the population biology and dynamics of the sea scallop from Virginia to the Hague line, USA.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 186,
+        "LASTNAME": "Frank",
+        "HONORIFIC": "Representative",
+        "STATE": "MA",
+        "FIRSTNAME": "Barney"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 211,
+    "AMT_CONF": 100,
+    "AMT_SC": 100,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319447,
+    "SC_F_CTTN_EXCERPT": "Merrimack River Fish Habitat",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Merrimack River Fish Habitat",
+    "EARMARK_DESCRIPTION": "Protect and conserve habitat through acquisition or conservation easement property along the Merrimack River and its tributaries.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 211,
+        "LASTNAME": "Gregg",
+        "HONORIFIC": "Senator",
+        "STATE": "NH",
+        "FIRSTNAME": "Judd"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 180,
+    "AMT_SC": 380,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319448,
+    "SC_F_CTTN_EXCERPT": "Yukon River Drainage Association",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Yukon River Drainage Association",
+    "EARMARK_DESCRIPTION": "\"Promoting healthy wild salmon fisheries, funds will be used by the Association to promote healthy wild salmon fisheries by monitoring efforts, conducting research, and education efforts aimed at improving subsistence and commercial fisheries management\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 150,
+    "AMT_SC": 150,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319449,
+    "SC_F_CTTN_EXCERPT": "Gulf of Alaska Coastal Communities Coalition",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Gulf of Alaska Coastal Communities Coalition",
+    "EARMARK_DESCRIPTION": "\"Assisting smaller fisheries' dependent coastal communities, Funds will be used to assist the smaller fisheries' dependent coastal communities of the Gulf of Alaska with the regulatory process by participating on research boards and developing management plans\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 211,
+    "AMT_CONF": 200,
+    "AMT_SC": 200,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319450,
+    "SC_F_CTTN_EXCERPT": "New England Weather Technologies Initiative",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Plymouth State College",
+    "EARMARK_DESCRIPTION": "\"Provides for continued weather technology and observation at Plymouth State University, NH\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 211,
+        "LASTNAME": "Gregg",
+        "HONORIFIC": "Senator",
+        "STATE": "NH",
+        "FIRSTNAME": "Judd"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 186,
+    "AMT_CONF": 3000,
+    "AMT_SC": 3000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319451,
+    "SC_F_CTTN_EXCERPT": "\"New England Multi-Species Survey, MA\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "New England Multi-Species Survey, MA",
+    "EARMARK_DESCRIPTION": "\"Provides funds to the University of Massachusetts, Dartmouth for scientific management information about groundfish and lobster fisheries.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 186,
+        "LASTNAME": "Frank",
+        "HONORIFIC": "Representative",
+        "STATE": "MA",
+        "FIRSTNAME": "Barney"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 365,
+    "AMT_CONF": 2000,
+    "AMT_SC": 2000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319452,
+    "SC_F_CTTN_EXCERPT": "Susquehanna River Basin Flood System",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Susquehanna River Basin Flood System",
+    "EARMARK_DESCRIPTION": "\"To assist the Susquehanna River Basin Commission, in conjunction with NOAA/NWS and the USGS with the enhancement of the basin's flood warning system: 1. Maintain a sustainable, state-of-the-art observational network. 2. Provide as much lead-time and accuracy in forecasts and warnings as practicably possible. 3. Evaluate the spatial distribution of flood damages in the basin. 4. Expand the flood warning system to support water resources management of public water supply, drought, and recreation within the basin. 5. Improve flood warning dissemination through the use of technology. 6. Increase public awareness, support, and use of National Weather Service products. 7. Develop a mechanism for administration and secure source of funding for the SFFWS.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 365,
+        "LASTNAME": "Mikulski",
+        "HONORIFIC": "Senator",
+        "STATE": "MD",
+        "FIRSTNAME": "Barbara"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 302,
+    "AMT_CONF": 1000,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319453,
+    "SC_F_CTTN_EXCERPT": "\"Narragansett Bay Window Program, RI\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Narragansett Bay Window Program, RI",
+    "EARMARK_DESCRIPTION": "\"This would provide a grant to the University of Rhode Island's Coastal Institute to support a cooperative program that will monitor the water quality, ecology, fish, and fisheries of Narragansett Bay, RI.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 302,
+        "LASTNAME": "Langevin",
+        "HONORIFIC": "Representative",
+        "STATE": "RI",
+        "FIRSTNAME": "James"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 250,
+    "AMT_CONF": 300,
+    "AMT_SC": 300,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319454,
+    "SC_F_CTTN_EXCERPT": "\"Port Aransas Nature Preserve, TX\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Port Aransas Nature Preserve, TX",
+    "EARMARK_DESCRIPTION": "Part of a larger project that will protect more than 1000 acres of wetlands and associated upland habitat through the use of carefully selected erosion control structures adjacent to the Ship Channel along the Port Aransas Nature Preserve shoreline.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 250,
+        "LASTNAME": "Hutchison",
+        "HONORIFIC": "Senator",
+        "STATE": "TX",
+        "FIRSTNAME": "Kay"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 100,
+    "AMT_SC": 940,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319455,
+    "SC_F_CTTN_EXCERPT": "\"Coastal Vulnerablility to Climate Change Study, AK\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Coastal Vulnerablility to Climate Change Study, AK",
+    "EARMARK_DESCRIPTION": "\"To look at impacts, response strategies and predictions for rural Alaska coastal communities\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 102,
+    "AMT_CONF": 1500,
+    "AMT_SC": 1500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319456,
+    "SC_F_CTTN_EXCERPT": "Reg. Ensembling Sys/Atmos Dispersion Forecasts",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Regional Ensembling System for Atmospheric Dispersion Forecasts",
+    "EARMARK_DESCRIPTION": "\"The objectives and goal in this effort is to construct a dispersion forecasting capability tailored for application in the Gulf Coast region.  Activity is focused on the development of ensemble methods and data assimilation techniques.   The final product of this initiative is intended to be an operational system for emergency management (preparation, prevention, and response) based at a relevant site within the Gulf Coast region, maintained and improved by scientists of Jackson State University working in close collaboration with NOAA, the Department of Homeland Security, and other agencies with related mandates and responsibilities.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 102,
+        "LASTNAME": "Cochran",
+        "HONORIFIC": "Senator",
+        "STATE": "MS",
+        "FIRSTNAME": "Thad"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 102,
+    "AMT_CONF": 1500,
+    "AMT_SC": 1500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319457,
+    "SC_F_CTTN_EXCERPT": "Remote Infasonic Monitoring of Natural Hazards",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Remote Infrasonic Monitoring of Natural Hazards",
+    "EARMARK_DESCRIPTION": "Supports research in long-ranging atmospheric sound below the perception of human hearing to provide better warnings to those in danger of the effects of hurricanes and volcanic eruptions.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 102,
+        "LASTNAME": "Cochran",
+        "HONORIFIC": "Senator",
+        "STATE": "MS",
+        "FIRSTNAME": "Thad"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 346,
+    "AMT_CONF": 700,
+    "AMT_SC": 700,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319458,
+    "SC_F_CTTN_EXCERPT": "Western KY Environmental Monitoring Network",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Western KY Environmental Monitoring Network",
+    "EARMARK_DESCRIPTION": "\"Completes the development of a monitoring system that will collect real-time observations through a state-wide grid of stations in Kentucky, administered by Western Kentucky University Research Foundation, Bowling Green, KY.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 346,
+        "LASTNAME": "McConnell",
+        "HONORIFIC": "Senator",
+        "STATE": "KY",
+        "FIRSTNAME": "Mitch"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 485,
+    "AMT_CONF": 700,
+    "AMT_SC": 750,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319459,
+    "SC_F_CTTN_EXCERPT": "Coastal & Inland Hurr. Monitoring & Protection Pgm.--AL",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Coastal & Inland Hurricane Monitoring & Protection Program--AL",
+    "EARMARK_DESCRIPTION": "\"To acquire the ability to predict the intensity and potential damage of hurricanes affecting the Gulf Coast, University of South Alabama\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 485,
+        "LASTNAME": "Shelby",
+        "HONORIFIC": "Senator",
+        "STATE": "AL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 117,
+    "AMT_CONF": 800,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319460,
+    "SC_F_CTTN_EXCERPT": "Tornado & Hurricane Operations & Research--AL",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Tornado & Hurricane Operations & Research--AL",
+    "EARMARK_DESCRIPTION": "\"To improve detection, tracking, and forecasting of tornadic thunderstorms and land-falling hurricanes in the Southeast United States, University of Alabama at Huntsville. Coordinate NASA-NOAA Severe Storm R&D.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 117,
+        "LASTNAME": "Cramer, Jr.",
+        "HONORIFIC": "Representative",
+        "STATE": "AL",
+        "FIRSTNAME": "Bud"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 485,
+    "AMT_CONF": 750,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319461,
+    "SC_F_CTTN_EXCERPT": "\"Collaborative R&D Initiviative for the Gulf of Mexico, AL\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Collaborative Research & Development Initiviative for the Gulf of Mexico, AL",
+    "EARMARK_DESCRIPTION": "\"For collaboration between federal agencies in Alabama and research universities to more effectively complete NOAA missions, Von Braun Center for Science and Innovation\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 485,
+        "LASTNAME": "Shelby",
+        "HONORIFIC": "Senator",
+        "STATE": "AL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 473,
+    "AMT_CONF": 650,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319462,
+    "SC_F_CTTN_EXCERPT": "\"Regional Climate Centers, Reno, NV; Chapel Hill, NC;Baton Rouge, LA; Ithaca, NY; Champaign, IL; Lincoln,NE; Funding for climate research at nationwide s\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Regional Climate Centers / High Plains",
+    "EARMARK_DESCRIPTION": "\"RCCs collaborate with multiple NOAA line offices (e.g., NESDIS, NWS, and OAR) to provide climate information and conduct applied climate science research.  RCCs interact with academia, the American Association of State Climatologists (AASC), local and state decision makers, and numerous federal agencies (e.g., USDA, EPA, USGS, etc.).\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 473,
+        "LASTNAME": "Schumer",
+        "HONORIFIC": "Senator",
+        "STATE": "NY",
+        "FIRSTNAME": "Charles"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 388,
+    "AMT_CONF": 650,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319463,
+    "SC_F_CTTN_EXCERPT": "\"Regional Climate Centers, Reno, NV; Chapel Hill, NC;Baton Rouge, LA; Ithaca, NY; Champaign, IL; Lincoln,NE; Funding for climate research at nationwide s\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Regional Climate Centers  / Midwest",
+    "EARMARK_DESCRIPTION": "\"RCCs collaborate with multiple NOAA line offices (e.g., NESDIS, NWS, and OAR) to provide climate information and conduct applied climate science research.  RCCs interact with academia, the American Association of State Climatologists (AASC), local and state decision makers, and numerous federal agencies (e.g., USDA, EPA, USGS, etc.).\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 388,
+        "LASTNAME": "Nelson",
+        "HONORIFIC": "Senator",
+        "STATE": "NE",
+        "FIRSTNAME": "Ben"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 166,
+    "AMT_CONF": 650,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319464,
+    "SC_F_CTTN_EXCERPT": "\"Regional Climate Centers, Reno, NV; Chapel Hill, NC;Baton Rouge, LA; Ithaca, NY; Champaign, IL; Lincoln,NE; Funding for climate research at nationwide s\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Regional Climate Centers / Southern",
+    "EARMARK_DESCRIPTION": "\"RCCs collaborate with multiple NOAA line offices (e.g., NESDIS, NWS, and OAR) to provide climate information and conduct applied climate science research.  RCCs interact with academia, the American Association of State Climatologists (AASC), local and state decision makers, and numerous federal agencies (e.g., USDA, EPA, USGS, etc.).\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 166,
+        "LASTNAME": "Ensign",
+        "HONORIFIC": "Senator",
+        "STATE": "NV",
+        "FIRSTNAME": "John"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 265,
+    "AMT_CONF": 650,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319465,
+    "SC_F_CTTN_EXCERPT": "\"Regional Climate Centers, Reno, NV; Chapel Hill, NC;Baton Rouge, LA; Ithaca, NY; Champaign, IL; Lincoln,NE; Funding for climate research at nationwide s\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Regional Climate Centers / Western",
+    "EARMARK_DESCRIPTION": "\"RCCs collaborate with multiple NOAA line offices (e.g., NESDIS, NWS, and OAR) to provide climate information and conduct applied climate science research.  RCCs interact with academia, the American Association of State Climatologists (AASC), local and state decision makers, and numerous federal agencies (e.g., USDA, EPA, USGS, etc.).\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 265,
+        "LASTNAME": "Johnson",
+        "HONORIFIC": "Representative",
+        "STATE": "IL",
+        "FIRSTNAME": "Timothy"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 265,
+    "AMT_CONF": 250,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319466,
+    "SC_F_CTTN_EXCERPT": "\"Regional Climate Centers, Reno, NV; Chapel Hill, NC;Baton Rouge, LA; Ithaca, NY; Champaign, IL; Lincoln,NE; Funding for climate research at nationwide s\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Regional Climate Centers / Southeast",
+    "EARMARK_DESCRIPTION": "\"RCCs collaborate with multiple NOAA line offices (e.g., NESDIS, NWS, and OAR) to provide climate information and conduct applied climate science research.  RCCs interact with academia, the American Association of State Climatologists (AASC), local and state decision makers, and numerous federal agencies (e.g., USDA, EPA, USGS, etc.).\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 265,
+        "LASTNAME": "Johnson",
+        "HONORIFIC": "Representative",
+        "STATE": "IL",
+        "FIRSTNAME": "Timothy"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 265,
+    "AMT_CONF": 150,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319467,
+    "SC_F_CTTN_EXCERPT": "\"Regional Climate Centers, Reno, NV; Chapel Hill, NC;Baton Rouge, LA; Ithaca, NY; Champaign, IL; Lincoln,NE; Funding for climate research at nationwide s\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Regional Climate Centers  / Northeast",
+    "EARMARK_DESCRIPTION": "\"RCCs collaborate with multiple NOAA line offices (e.g., NESDIS, NWS, and OAR) to provide climate information and conduct applied climate science research.  RCCs interact with academia, the American Association of State Climatologists (AASC), local and state decision makers, and numerous federal agencies (e.g., USDA, EPA, USGS, etc.).\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 265,
+        "LASTNAME": "Johnson",
+        "HONORIFIC": "Representative",
+        "STATE": "IL",
+        "FIRSTNAME": "Timothy"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 253,
+    "AMT_CONF": 2500,
+    "AMT_SC": 2500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319468,
+    "SC_F_CTTN_EXCERPT": "\"National Ocean Atmospheric Administration, Honolulu,HI, to help the Integrated Data and EnvironmentalApplications Center meet critical regional needs forocean, climate, and ecosystem information\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Integrated Data and Environmental Applications (IDEA) Ctr. (formerly the Pacific Ocean and Environment Information Center (NIEAIC))",
+    "EARMARK_DESCRIPTION": "\"NOAA's Integrated Data and Environmental Applications (IDEA) Center advances NOAA's mission objectives to help meet critical regional needs for ocean, climate, and ecosystem information to protect lives and property, support economic development and enhance the resilience of Pacific Island communities in the face of changing environmental conditions.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 253,
+        "LASTNAME": "Inouye",
+        "HONORIFIC": "Senator",
+        "STATE": "HI",
+        "FIRSTNAME": "Daniel"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 1500,
+    "AMT_SC": 3750,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319469,
+    "SC_F_CTTN_EXCERPT": "Alaska Sea Life Center",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Alaska Sea Life Center",
+    "EARMARK_DESCRIPTION": "\"Harbor seal and stellar sea lion protection program, For management measures to protect harbor seals and steller sea lions and multi-year interdisciplinary research and standing rehabilitation program in partnership with NMFS\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 300,
+    "AMT_SC": 210,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319470,
+    "SC_F_CTTN_EXCERPT": "\"Steller Sea Lion Conservation & Co-Management, AK\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Steller Sea Lion Conservation & Co-Management, AK",
+    "EARMARK_DESCRIPTION": "\"Funds are provided to the Commission for cooperative research, including biosampling, on sea lions in coastal communities of Alaska.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 238,
+    "AMT_CONF": 750,
+    "AMT_SC": 750,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319471,
+    "SC_F_CTTN_EXCERPT": "\"Hawaiian Fisheries Development, HI\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Hawaiian Fisheries Development, HI",
+    "EARMARK_DESCRIPTION": "\"The primary objective of this project is to make marine finfish culture technologies economically viable for commercial application. Research is conducted to develop core technologies in broodstock, live feeds, larviculture, and growout systems for warm water marine fish species. This research has led to improved hatchery production of red snapper and omilu for enhancement activities in the Gulf of Mexico and Hawaii.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 238,
+        "LASTNAME": "Hirono",
+        "HONORIFIC": "Representative",
+        "STATE": "HI",
+        "FIRSTNAME": "Mazie"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 190,
+    "AMT_SC": 190,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319472,
+    "SC_F_CTTN_EXCERPT": "Bering Sea Fishermen's Association",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Bering Sea Fishermen",
+    "EARMARK_DESCRIPTION": "\"Monitoring and restoration of salmon stocks, Funds will be used to allow the monitoring and restoration of depressed salmon stocks under the management of one organization that serves and represents all affected fishermen\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 238,
+    "AMT_CONF": 1750,
+    "AMT_SC": 1750,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319473,
+    "SC_F_CTTN_EXCERPT": "\"International Pacific Research Center, University ofHawaii, Honolulu, HI, to conduct systematic and reliableclimatographic research of the Pacific region\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "International Pacific Research Center (U. of HI)",
+    "EARMARK_DESCRIPTION": "\"IPRC goals are:  a) to implement infrastructure in support of the Global Ocean Data Assimilation Experiment (GODAE); and b) to enhance activities in support of the Pacific Region Integrated Data Enterprise (PRIDE).  The Asia-Pacific Data-Research Center (APDRC) is a component of the IPRC.  The project will continue baseline activities addressing the three major goals of the APDRC: -Operate and enhance the web-based, Data Server System (DSS); -Provide a global data base and data management for climate data and products; -Develop and serve new climate related products for research and applications users.\"",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 238,
+        "LASTNAME": "Hirono",
+        "HONORIFIC": "Representative",
+        "STATE": "HI",
+        "FIRSTNAME": "Mazie"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 485,
+    "AMT_CONF": 800,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319474,
+    "SC_F_CTTN_EXCERPT": "\"University of Alabama at Huntsville, Huntsville, AL, forcooperative institute\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Cooperative Institute, University of Alabama at Huntsville",
+    "EARMARK_DESCRIPTION": "Coop Institute for Remote Sensing Applications",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 485,
+        "LASTNAME": "Shelby",
+        "HONORIFIC": "Senator",
+        "STATE": "AL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 8,
+    "AMT_CONF": 700,
+    "AMT_SC": 700,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319477,
+    "SC_F_CTTN_EXCERPT": "\"Louisiana State University A&M, Baton Rouge, LA, to provide more information for a geodetic reference system to aid land planning in Louisiana.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Louisiana Geodetic Spatial Reference Center, LA",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 8,
+        "LASTNAME": "Alexander",
+        "HONORIFIC": "Representative",
+        "STATE": "LA",
+        "FIRSTNAME": "Rodney"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 253,
+    "AMT_CONF": 4500,
+    "AMT_SC": 4500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319478,
+    "SC_F_CTTN_EXCERPT": "\"National Ocean Atmospheric Administration, Honolulu, HI, for the NOAA Pacific Services Center to meet coastal management needs of Pacific Island Communities\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Pacific Coastal Services Center, HI",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 253,
+        "LASTNAME": "Inouye",
+        "HONORIFIC": "Senator",
+        "STATE": "HI",
+        "FIRSTNAME": "Daniel"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 53,
+    "AMT_CONF": 1500,
+    "AMT_SC": 1500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319479,
+    "SC_F_CTTN_EXCERPT": "\"National Ocean Atmospheric Administration, Silver Spring, MD, to develop a program to map the seafloor of California's coastal waters, inland bays and the Sacramento-San Joaquin River Delta.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "California Sea Floor Mapping, CA",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 53,
+        "LASTNAME": "Boxer",
+        "HONORIFIC": "Senator",
+        "STATE": "CA",
+        "FIRSTNAME": "Barbara"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 253,
+    "AMT_CONF": 500,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319480,
+    "SC_F_CTTN_EXCERPT": "\"National Ocean Atmospheric Administration, Honolulu, HI, for the deployment of two oceanographic buoys to monitor ocean currents near Ordnance Reef.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Ordnance Reef Underwater Unexploded Ordnance (UXO)--Buoys, HI",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 253,
+        "LASTNAME": "Inouye",
+        "HONORIFIC": "Senator",
+        "STATE": "HI",
+        "FIRSTNAME": "Daniel"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 500,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319481,
+    "SC_F_CTTN_EXCERPT": "\"University of Alaska, Fairbanks, AK, for advanced submarine surveys to establish new U.S. claims for seabed resources.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Extended Continental Shelf Mapping, AK",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 485,
+    "AMT_CONF": 500,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319482,
+    "SC_F_CTTN_EXCERPT": "\"University of North Alabama, Florence, AL, for geospatial analysis\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Geo-Spatial Analysis of Weather Phenomena and Disaster Recovery, AL",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 485,
+        "LASTNAME": "Shelby",
+        "HONORIFIC": "Senator",
+        "STATE": "AL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 542,
+    "AMT_CONF": 250,
+    "AMT_SC": 250,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319483,
+    "SC_F_CTTN_EXCERPT": "\"Bowling Green State University, Bowling Green, OH, to monitor cyanobacteria blooms in the Great Lakes\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Monitoring of Lake Erie Water Quality with Remote Sensing, OH",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 542,
+        "LASTNAME": "Voinovich",
+        "HONORIFIC": "Senator",
+        "STATE": "OH",
+        "FIRSTNAME": "George"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 253,
+    "AMT_CONF": 700,
+    "AMT_SC": 700,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319484,
+    "SC_F_CTTN_EXCERPT": "\"Hawaii Coral Reef Initiative, University of Hawaii, Honolulu, HI, to support monitoring and research activities on Hawaii coral reefs.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Hawaii Coral Reef Initiative, HI",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 253,
+        "LASTNAME": "Inouye",
+        "HONORIFIC": "Senator",
+        "STATE": "HI",
+        "FIRSTNAME": "Daniel"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 541,
+    "AMT_CONF": 250,
+    "AMT_SC": 250,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319485,
+    "SC_F_CTTN_EXCERPT": "\"State of Louisiana, Baton Rouge, LA, to conduct priority research and provide science support for the restoration of the Pontchartrain Basin through the Pontchartrain Restoration Act (PRA) of 2000, the Coast Wetland Planning, Protection, and Restoration Act (CWPPRA) of 1990, and the Federal/State Coast 2050 Initiative.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Lake Ponchartrian Initiatives",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 541,
+        "LASTNAME": "Vitter",
+        "HONORIFIC": "Senator",
+        "STATE": "LA",
+        "FIRSTNAME": "David"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 430,
+    "AMT_CONF": 1000,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319486,
+    "SC_F_CTTN_EXCERPT": "\"Rhode Island Coastal Resource Management Council, Wakefield, RI, for the development of a comprehensive habitat restoration and protection plan for Narragansett Bay and nearby water bodies.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Narragansett Bay and Little Narragansett Bay Watershed Restoration",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 430,
+        "LASTNAME": "Reed",
+        "HONORIFIC": "Senator",
+        "STATE": "RI",
+        "FIRSTNAME": "Jack"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 5,
+    "AMT_CONF": 2000,
+    "AMT_SC": 2000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319487,
+    "SC_F_CTTN_EXCERPT": "\"Hawaii Institute of Marine Biology, University of Hawaii, Kaneohe, HI, for research in the Hawaiian Archipelago to guide ecosystem based management.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Hawaii Inst. of Marine Biology Coral Research, HI",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 5,
+        "LASTNAME": "Akaka",
+        "HONORIFIC": "Senator",
+        "STATE": "HI",
+        "FIRSTNAME": "Daniel"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 75,
+    "AMT_CONF": 1600,
+    "AMT_SC": 1600,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319488,
+    "SC_F_CTTN_EXCERPT": "\"Washington State Department of Ecology, Olympia, WA, for citizen-driven environmental protection\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Northwest Straits Citizen Advisory Commission, WA",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 75,
+        "LASTNAME": "Cantwell",
+        "HONORIFIC": "Senator",
+        "STATE": "WA",
+        "FIRSTNAME": "Maria"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 211,
+    "AMT_CONF": 100,
+    "AMT_SC": 100,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319489,
+    "SC_F_CTTN_EXCERPT": "\"Lakes Region Planning Commission, Meredith, NH, to continue efforts to develop a comprehensive watershed management plan for Lake Winnipesaukee.\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Lake Winnipesaukee Watershed Management Plan, NH",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 211,
+        "LASTNAME": "Gregg",
+        "HONORIFIC": "Senator",
+        "STATE": "NH",
+        "FIRSTNAME": "Judd"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 485,
+    "AMT_CONF": 500,
+    "AMT_SC": 500,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319490,
+    "SC_F_CTTN_EXCERPT": "\"City of Mobile, AL, Mobile, AL, for NOAA museum exhibits\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "City of Mobile National Maritime Museum of the Gulf of Mexico",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 485,
+        "LASTNAME": "Shelby",
+        "HONORIFIC": "Senator",
+        "STATE": "AL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 45,
+    "AMT_CONF": 250,
+    "AMT_SC": 250,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319491,
+    "SC_F_CTTN_EXCERPT": "\"City of Orange Beach, Orange Beach, AL, for study of Perdido Pass Inlet\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Perdido Pass Inlet Management Study, AL",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 45,
+        "LASTNAME": "Bonner",
+        "HONORIFIC": "Representative",
+        "STATE": "AL",
+        "FIRSTNAME": "Jo"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 313,
+    "AMT_CONF": 1000,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319492,
+    "SC_F_CTTN_EXCERPT": "\"Thunder Bay Marine Sanctuary, Alpena, MI, for the lease for the Great Lakes Maritime Heritage Center\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Thunder Bay, NMS lease buydown, MI",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 313,
+        "LASTNAME": "Levin",
+        "HONORIFIC": "Senator",
+        "STATE": "MI",
+        "FIRSTNAME": "Carl"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 250,
+    "AMT_SC": 950,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319493,
+    "SC_F_CTTN_EXCERPT": "\"Ice Seal Research, AK\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Ice Seal Research, AK",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 200,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319494,
+    "SC_F_CTTN_EXCERPT": "\"Alaska King Crab Research, AK\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Alaska King Crab Research, AK",
+    "EARMARK_DESCRIPTION": "This funding would increase studies on the rehabilitation and enhancement of Alaska king crab stocks through artificial propagation and release in the ocean.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 80,
+    "AMT_CONF": 10000,
+    "AMT_SC": 20000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319495,
+    "SC_F_CTTN_EXCERPT": "\"Chesapeake Bay Blue Crab Disaster Assistance, MD and VA\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Chesapeake Bay Blue Crab Disaster Assistance, MD and VA",
+    "EARMARK_DESCRIPTION": "Assist watermen struggling with the blue crab disaster.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 80,
+        "LASTNAME": "Cardin",
+        "HONORIFIC": "Senator",
+        "STATE": "MD",
+        "FIRSTNAME": "Benjamin"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 135,
+    "AMT_CONF": 640,
+    "AMT_SC": 250,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319496,
+    "SC_F_CTTN_EXCERPT": "\"Disease Reduction in Klamath River Salmon, OR\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Disease Reduction in Klamath River Salmon, OR",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 135,
+        "LASTNAME": "DeFazio",
+        "HONORIFIC": "Representative",
+        "STATE": "OR",
+        "FIRSTNAME": "Peter"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 377,
+    "AMT_CONF": 150,
+    "AMT_SC": 150,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319497,
+    "SC_F_CTTN_EXCERPT": "\"Fisheries Advisory Bodies, AK\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Fisheries Advisory Bodies, AK",
+    "EARMARK_DESCRIPTION": "Support private industry participation in 2 international fishery advisory groups.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 377,
+        "LASTNAME": "Murkowski",
+        "HONORIFIC": "Senator",
+        "STATE": "AK",
+        "FIRSTNAME": "Lisa"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 389,
+    "AMT_CONF": 295,
+    "AMT_SC": 200,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319498,
+    "SC_F_CTTN_EXCERPT": "\"Florida Marine Replenishment Program, FL\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Florida Marine Replenishment Program, FL",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 389,
+        "LASTNAME": "Nelson",
+        "HONORIFIC": "Senator",
+        "STATE": "FL",
+        "FIRSTNAME": "Bill"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 10,
+    "AMT_CONF": 100,
+    "AMT_SC": 100,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319499,
+    "SC_F_CTTN_EXCERPT": "\"Gear Conservation Assistance, ME\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Gear Conservation Assistance, ME",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 10,
+        "LASTNAME": "Allen",
+        "HONORIFIC": "Representative",
+        "STATE": "ME",
+        "FIRSTNAME": "Thomas"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 499,
+    "AMT_CONF": 300,
+    "AMT_SC": 300,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319500,
+    "SC_F_CTTN_EXCERPT": "\"Maine Groundfish Industry Emergency Economic Assistance, ME\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Maine Groundfish Industry Emergency Economic Assistance, ME",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 499,
+        "LASTNAME": "Snowe",
+        "HONORIFIC": "Senator",
+        "STATE": "ME",
+        "FIRSTNAME": "Olympia"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 389,
+    "AMT_CONF": 1000,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319501,
+    "SC_F_CTTN_EXCERPT": "\"Pilot Red Snapper Observer Program, FL\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Pilot Red Snapper Observer Program, FL",
+    "EARMARK_DESCRIPTION": "",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Democrat",
+        "IDSPONSOR": 389,
+        "LASTNAME": "Nelson",
+        "HONORIFIC": "Senator",
+        "STATE": "FL",
+        "FIRSTNAME": "Bill"
+    },
+    "AMT_HC": 0
+}, {
+    "ACCOUNT_TITLE": "\"Operations, Research, and Facilities\"",
+    "SPENDINGCOMMITTEE": {
+        "IDSPENDINGCOMMITTEE": 27,
+        "COMMITTEENAME": "Commerce, Justice, Science, and Related Agencies"
+    },
+    "HC_F_CTTN_SOURCE_NAME": "",
+    "BUREAU_TITLE": "National Oceanic and Atmospheric Administration",
+    "AMT_SF": 0,
+    "IDSPONSOR": 485,
+    "AMT_CONF": 800,
+    "AMT_SC": 1000,
+    "ENACTED_YEAR": 2009,
+    "EARMARK_ID": 319502,
+    "SC_F_CTTN_EXCERPT": "\"Alabama Oyster Restoration and Fishery Enhancement, AL\"",
+    "IDSPENDINGCOMMITTEE": 27,
+    "SHORT_DESCRIPTION": "Alabama Oyster Restoration and Fishery Enhancement, AL",
+    "EARMARK_DESCRIPTION": "University of South Alabama would continue to restore oyster beds and create habitats for offshore reef species.",
+    "AMT_HF": 0,
+    "AGENCY_TITLE": "Department of Commerce",
+    "SPONSOR": {
+        "PARTY": "Republican",
+        "IDSPONSOR": 485,
+        "LASTNAME": "Shelby",
+        "HONORIFIC": "Senator",
+        "STATE": "AL",
+        "FIRSTNAME": "Richard"
+    },
+    "AMT_HC": 0
+}]

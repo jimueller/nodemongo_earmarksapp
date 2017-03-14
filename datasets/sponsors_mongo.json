@@ -1,0 +1,701 @@
+[{
+    "PARTY": "Democrat",
+    "_id": 1,
+    "LASTNAME": "Abercrombie",
+    "HONORIFIC": "Representative",
+    "STATE": "HI",
+    "FIRSTNAME": "Neil "
+}, {
+    "PARTY": "Democrat",
+    "_id": 2,
+    "LASTNAME": "Ackerman",
+    "HONORIFIC": "Representative",
+    "STATE": "NY",
+    "FIRSTNAME": "Gary "
+}, {
+    "PARTY": "Republican",
+    "_id": 3,
+    "LASTNAME": "Aderholt",
+    "HONORIFIC": "Representative",
+    "STATE": "AL",
+    "FIRSTNAME": "Robert"
+}, {
+    "PARTY": "Republican",
+    "_id": 4,
+    "LASTNAME": "Adler",
+    "HONORIFIC": "Representative",
+    "STATE": "NJ",
+    "FIRSTNAME": "John"
+}, {
+    "PARTY": "Democrat",
+    "_id": 5,
+    "LASTNAME": "Akaka",
+    "HONORIFIC": "Senator",
+    "STATE": "HI",
+    "FIRSTNAME": "Daniel"
+}, {
+    "PARTY": "Republican",
+    "_id": 6,
+    "LASTNAME": "Akin",
+    "HONORIFIC": "Representative",
+    "STATE": "MO",
+    "FIRSTNAME": "W. Todd"
+}, {
+    "PARTY": "Republican",
+    "_id": 7,
+    "LASTNAME": "Alexander",
+    "HONORIFIC": "Senator",
+    "STATE": "TN",
+    "FIRSTNAME": "Lamar"
+}, {
+    "PARTY": "Republican",
+    "_id": 8,
+    "LASTNAME": "Alexander",
+    "HONORIFIC": "Representative",
+    "STATE": "LA",
+    "FIRSTNAME": "Rodney"
+}, {
+    "PARTY": "Republican",
+    "_id": 9,
+    "LASTNAME": "Allard",
+    "HONORIFIC": "Senator",
+    "STATE": "CO",
+    "FIRSTNAME": "Wayne"
+}, {
+    "PARTY": "Democrat",
+    "_id": 10,
+    "LASTNAME": "Allen",
+    "HONORIFIC": "Representative",
+    "STATE": "ME",
+    "FIRSTNAME": "Thomas"
+}, {
+    "PARTY": "Democrat",
+    "_id": 11,
+    "LASTNAME": "Altmire",
+    "HONORIFIC": "Representative",
+    "STATE": "PA",
+    "FIRSTNAME": "Jason "
+}, {
+    "PARTY": "Democrat",
+    "_id": 12,
+    "LASTNAME": "Andrews",
+    "HONORIFIC": "Representative",
+    "STATE": "NJ",
+    "FIRSTNAME": "Robert "
+}, {
+    "PARTY": "Democrat",
+    "_id": 13,
+    "LASTNAME": "Arcuri",
+    "HONORIFIC": "Representative",
+    "STATE": "NY",
+    "FIRSTNAME": "Michael "
+}, {
+    "PARTY": "Democrat",
+    "_id": 14,
+    "LASTNAME": "Baca",
+    "HONORIFIC": "Representative",
+    "STATE": "CA",
+    "FIRSTNAME": "Joe"
+}, {
+    "PARTY": "Republican",
+    "_id": 15,
+    "LASTNAME": "Bachus",
+    "HONORIFIC": "Representative",
+    "STATE": "AL",
+    "FIRSTNAME": "Spencer "
+}, {
+    "PARTY": "Democrat",
+    "_id": 16,
+    "LASTNAME": "Baird",
+    "HONORIFIC": "Representative",
+    "STATE": "WA",
+    "FIRSTNAME": "Brian "
+}, {
+    "PARTY": "Democrat",
+    "_id": 17,
+    "LASTNAME": "Baldwin",
+    "HONORIFIC": "Representative",
+    "STATE": "WI",
+    "FIRSTNAME": "Tammy "
+}, {
+    "PARTY": "Republican",
+    "_id": 18,
+    "LASTNAME": "Barrasso",
+    "HONORIFIC": "Senator",
+    "STATE": "WY",
+    "FIRSTNAME": "John "
+}, {
+    "PARTY": "Republican",
+    "_id": 19,
+    "LASTNAME": "Barrett",
+    "HONORIFIC": "Representative",
+    "STATE": "SC",
+    "FIRSTNAME": "James"
+}, {
+    "PARTY": "Democrat",
+    "_id": 20,
+    "LASTNAME": "Barrow",
+    "HONORIFIC": "Representative",
+    "STATE": "GA",
+    "FIRSTNAME": "John"
+}, {
+    "PARTY": "Republican",
+    "_id": 21,
+    "LASTNAME": "Bartlett",
+    "HONORIFIC": "Representative",
+    "STATE": "MD",
+    "FIRSTNAME": "Roscoe"
+}, {
+    "PARTY": "Republican",
+    "_id": 22,
+    "LASTNAME": "Barton",
+    "HONORIFIC": "Representative",
+    "STATE": "TX",
+    "FIRSTNAME": "Joe "
+}, {
+    "PARTY": "Democrat",
+    "_id": 23,
+    "LASTNAME": "Baucus",
+    "HONORIFIC": "Senator",
+    "STATE": "MT",
+    "FIRSTNAME": "Max"
+}, {
+    "PARTY": "Democrat",
+    "_id": 24,
+    "LASTNAME": "Bayh",
+    "HONORIFIC": "Senator",
+    "STATE": "IN",
+    "FIRSTNAME": "Evan"
+}, {
+    "PARTY": "Democrat",
+    "_id": 25,
+    "LASTNAME": "Bean",
+    "HONORIFIC": "Representative",
+    "STATE": "IL",
+    "FIRSTNAME": "Melissa"
+}, {
+    "PARTY": "Democrat",
+    "_id": 26,
+    "LASTNAME": "Becerra",
+    "HONORIFIC": "Representative",
+    "STATE": "CA",
+    "FIRSTNAME": "Xavier "
+}, {
+    "PARTY": "Democrat",
+    "_id": 27,
+    "LASTNAME": "Begich",
+    "HONORIFIC": "Senator",
+    "STATE": "AK",
+    "FIRSTNAME": "Mark"
+}, {
+    "PARTY": "Democrat",
+    "_id": 28,
+    "LASTNAME": "Bennet",
+    "HONORIFIC": "Senator",
+    "STATE": "CO",
+    "FIRSTNAME": "Michael "
+}, {
+    "PARTY": "Republican",
+    "_id": 29,
+    "LASTNAME": "Bennett",
+    "HONORIFIC": "Senator",
+    "STATE": "UT",
+    "FIRSTNAME": "Robert"
+}, {
+    "PARTY": "Democrat",
+    "_id": 30,
+    "LASTNAME": "Berkley",
+    "HONORIFIC": "Representative",
+    "STATE": "NV",
+    "FIRSTNAME": "Shelley "
+}, {
+    "PARTY": "Democrat",
+    "_id": 31,
+    "LASTNAME": "Berman",
+    "HONORIFIC": "Representative",
+    "STATE": "CA",
+    "FIRSTNAME": "Howard "
+}, {
+    "PARTY": "Democrat",
+    "_id": 32,
+    "LASTNAME": "Berry",
+    "HONORIFIC": "Representative",
+    "STATE": "AR",
+    "FIRSTNAME": "Marion"
+}, {
+    "PARTY": "Democrat",
+    "_id": 33,
+    "LASTNAME": "Biden, Jr.",
+    "HONORIFIC": "Senator",
+    "STATE": "DE",
+    "FIRSTNAME": "Joe"
+}, {
+    "PARTY": "Republican",
+    "_id": 34,
+    "LASTNAME": "Biggert",
+    "HONORIFIC": "Representative",
+    "STATE": "IL",
+    "FIRSTNAME": "Judy"
+}, {
+    "PARTY": "Republican",
+    "_id": 35,
+    "LASTNAME": "Bilbray",
+    "HONORIFIC": "Representative",
+    "STATE": "CA",
+    "FIRSTNAME": "Brian "
+}, {
+    "PARTY": "Republican",
+    "_id": 36,
+    "LASTNAME": "Bilirakis",
+    "HONORIFIC": "Representative",
+    "STATE": "FL",
+    "FIRSTNAME": "Gus "
+}, {
+    "PARTY": "Democrat",
+    "_id": 37,
+    "LASTNAME": "Bingaman",
+    "HONORIFIC": "Senator",
+    "STATE": "NM",
+    "FIRSTNAME": "Jeff"
+}, {
+    "PARTY": "Republican",
+    "_id": 38,
+    "LASTNAME": "Bishop",
+    "HONORIFIC": "Representative",
+    "STATE": "UT",
+    "FIRSTNAME": "Rob "
+}, {
+    "PARTY": "Democrat",
+    "_id": 39,
+    "LASTNAME": "Bishop",
+    "HONORIFIC": "Representative",
+    "STATE": "NY",
+    "FIRSTNAME": "Timothy"
+}, {
+    "PARTY": "Democrat",
+    "_id": 40,
+    "LASTNAME": "Bishop, Jr.",
+    "HONORIFIC": "Representative",
+    "STATE": "GA",
+    "FIRSTNAME": "Sanford "
+}, {
+    "PARTY": "Democrat",
+    "_id": 41,
+    "LASTNAME": "Blumenauer",
+    "HONORIFIC": "Representative",
+    "STATE": "OR",
+    "FIRSTNAME": "Earl "
+}, {
+    "PARTY": "Republican",
+    "_id": 42,
+    "LASTNAME": "Blunt",
+    "HONORIFIC": "Representative",
+    "STATE": "MO",
+    "FIRSTNAME": "Roy "
+}, {
+    "PARTY": "Democrat",
+    "_id": 43,
+    "LASTNAME": "Boccieri",
+    "HONORIFIC": "Representative",
+    "STATE": "OH",
+    "FIRSTNAME": "John"
+}, {
+    "PARTY": "Republican",
+    "_id": 44,
+    "LASTNAME": "Bond",
+    "HONORIFIC": "Senator",
+    "STATE": "MO",
+    "FIRSTNAME": "Christopher"
+}, {
+    "PARTY": "Republican",
+    "_id": 45,
+    "LASTNAME": "Bonner",
+    "HONORIFIC": "Representative",
+    "STATE": "AL",
+    "FIRSTNAME": "Jo"
+}, {
+    "PARTY": "Republican",
+    "_id": 46,
+    "LASTNAME": "Bono Mack",
+    "HONORIFIC": "Representative",
+    "STATE": "CA",
+    "FIRSTNAME": "Mary "
+}, {
+    "PARTY": "Republican",
+    "_id": 47,
+    "LASTNAME": "Boozman",
+    "HONORIFIC": "Representative",
+    "STATE": "AR",
+    "FIRSTNAME": "John "
+}, {
+    "PARTY": "Democrat",
+    "_id": 48,
+    "LASTNAME": "Bordallo",
+    "HONORIFIC": "Representative",
+    "STATE": "GU",
+    "FIRSTNAME": "Madeleine"
+}, {
+    "PARTY": "Democrat",
+    "_id": 49,
+    "LASTNAME": "Boren",
+    "HONORIFIC": "Representative",
+    "STATE": "OK",
+    "FIRSTNAME": "Dan"
+}, {
+    "PARTY": "Democrat",
+    "_id": 50,
+    "LASTNAME": "Boswell",
+    "HONORIFIC": "Representative",
+    "STATE": "IA",
+    "FIRSTNAME": "Leonard "
+}, {
+    "PARTY": "Democrat",
+    "_id": 51,
+    "LASTNAME": "Boucher",
+    "HONORIFIC": "Representative",
+    "STATE": "VA",
+    "FIRSTNAME": "Rick"
+}, {
+    "PARTY": "Republican",
+    "_id": 52,
+    "LASTNAME": "Boustany, Jr.",
+    "HONORIFIC": "Representative",
+    "STATE": "LA",
+    "FIRSTNAME": "Charles "
+}, {
+    "PARTY": "Democrat",
+    "_id": 53,
+    "LASTNAME": "Boxer",
+    "HONORIFIC": "Senator",
+    "STATE": "CA",
+    "FIRSTNAME": "Barbara"
+}, {
+    "PARTY": "Democrat",
+    "_id": 54,
+    "LASTNAME": "Boyd",
+    "HONORIFIC": "Representative",
+    "STATE": "FL",
+    "FIRSTNAME": "Allen "
+}, {
+    "PARTY": "Democrat",
+    "_id": 55,
+    "LASTNAME": "Boyda",
+    "HONORIFIC": "Representative",
+    "STATE": "KS",
+    "FIRSTNAME": "Nancy"
+}, {
+    "PARTY": "Republican",
+    "_id": 56,
+    "LASTNAME": "Brady",
+    "HONORIFIC": "Representative",
+    "STATE": "TX",
+    "FIRSTNAME": "Kevin"
+}, {
+    "PARTY": "Democrat",
+    "_id": 57,
+    "LASTNAME": "Brady",
+    "HONORIFIC": "Representative",
+    "STATE": "PA",
+    "FIRSTNAME": "Robert "
+}, {
+    "PARTY": "Democrat",
+    "_id": 58,
+    "LASTNAME": "Braley",
+    "HONORIFIC": "Representative",
+    "STATE": "IA",
+    "FIRSTNAME": "Bruce "
+}, {
+    "PARTY": "Democrat",
+    "_id": 59,
+    "LASTNAME": "Bright",
+    "HONORIFIC": "Representative",
+    "STATE": "AL",
+    "FIRSTNAME": "Bobby"
+}, {
+    "PARTY": "Democrat",
+    "_id": 60,
+    "LASTNAME": "Brown",
+    "HONORIFIC": "Representative",
+    "STATE": "FL",
+    "FIRSTNAME": "Corrine "
+}, {
+    "PARTY": "Democrat",
+    "_id": 61,
+    "LASTNAME": "Brown",
+    "HONORIFIC": "Senator",
+    "STATE": "OH",
+    "FIRSTNAME": "Sherrod"
+}, {
+    "PARTY": "Republican",
+    "_id": 62,
+    "LASTNAME": "Brown, Jr.",
+    "HONORIFIC": "Representative",
+    "STATE": "SC",
+    "FIRSTNAME": "Henry "
+}, {
+    "PARTY": "Republican",
+    "_id": 63,
+    "LASTNAME": "Brown-Waite",
+    "HONORIFIC": "Representative",
+    "STATE": "FL",
+    "FIRSTNAME": "Ginny"
+}, {
+    "PARTY": "Republican",
+    "_id": 64,
+    "LASTNAME": "Brownback",
+    "HONORIFIC": "Senator",
+    "STATE": "KS",
+    "FIRSTNAME": "Sam "
+}, {
+    "PARTY": "Republican",
+    "_id": 65,
+    "LASTNAME": "Buchanan",
+    "HONORIFIC": "Representative",
+    "STATE": "FL",
+    "FIRSTNAME": "Vern"
+}, {
+    "PARTY": "Republican",
+    "_id": 66,
+    "LASTNAME": "Bunning",
+    "HONORIFIC": "Senator",
+    "STATE": "KY",
+    "FIRSTNAME": "Jim "
+}, {
+    "PARTY": "Republican",
+    "_id": 67,
+    "LASTNAME": "Burgess",
+    "HONORIFIC": "Representative",
+    "STATE": "TX",
+    "FIRSTNAME": "Michael "
+}, {
+    "PARTY": "Republican",
+    "_id": 68,
+    "LASTNAME": "Burr",
+    "HONORIFIC": "Senator",
+    "STATE": "NC",
+    "FIRSTNAME": "Richard"
+}, {
+    "PARTY": "Democrat",
+    "_id": 69,
+    "LASTNAME": "Burris",
+    "HONORIFIC": "Senator",
+    "STATE": "IL",
+    "FIRSTNAME": "Roland"
+}, {
+    "PARTY": "Democrat",
+    "_id": 70,
+    "LASTNAME": "Butterfield",
+    "HONORIFIC": "Representative",
+    "STATE": "NC",
+    "FIRSTNAME": "G.K."
+}, {
+    "PARTY": "Republican",
+    "_id": 71,
+    "LASTNAME": "Buyer",
+    "HONORIFIC": "Representative",
+    "STATE": "IN",
+    "FIRSTNAME": "Steve "
+}, {
+    "PARTY": "Democrat",
+    "_id": 72,
+    "LASTNAME": "Byrd",
+    "HONORIFIC": "Senator",
+    "STATE": "WV",
+    "FIRSTNAME": "Robert"
+}, {
+    "PARTY": "Republican",
+    "_id": 73,
+    "LASTNAME": "Calvert",
+    "HONORIFIC": "Representative",
+    "STATE": "CA",
+    "FIRSTNAME": "Ken"
+}, {
+    "PARTY": "Republican",
+    "_id": 74,
+    "LASTNAME": "Cannon",
+    "HONORIFIC": "Representative",
+    "STATE": "UT",
+    "FIRSTNAME": "Chris"
+}, {
+    "PARTY": "Democrat",
+    "_id": 75,
+    "LASTNAME": "Cantwell",
+    "HONORIFIC": "Senator",
+    "STATE": "WA",
+    "FIRSTNAME": "Maria"
+}, {
+    "PARTY": "Republican",
+    "_id": 76,
+    "LASTNAME": "Cao",
+    "HONORIFIC": "Representative",
+    "STATE": "LA",
+    "FIRSTNAME": "Anh \"Joseph\""
+}, {
+    "PARTY": "Republican",
+    "_id": 77,
+    "LASTNAME": "Capito",
+    "HONORIFIC": "Representative",
+    "STATE": "WV",
+    "FIRSTNAME": "Shelley "
+}, {
+    "PARTY": "Democrat",
+    "_id": 78,
+    "LASTNAME": "Capps",
+    "HONORIFIC": "Representative",
+    "STATE": "CA",
+    "FIRSTNAME": "Lois"
+}, {
+    "PARTY": "Democrat",
+    "_id": 79,
+    "LASTNAME": "Capuano",
+    "HONORIFIC": "Representative",
+    "STATE": "MA",
+    "FIRSTNAME": "Michael "
+}, {
+    "PARTY": "Democrat",
+    "_id": 80,
+    "LASTNAME": "Cardin",
+    "HONORIFIC": "Senator",
+    "STATE": "MD",
+    "FIRSTNAME": "Benjamin"
+}, {
+    "PARTY": "Democrat",
+    "_id": 81,
+    "LASTNAME": "Cardoza",
+    "HONORIFIC": "Representative",
+    "STATE": "CA",
+    "FIRSTNAME": "Dennis"
+}, {
+    "PARTY": "Democrat",
+    "_id": 82,
+    "LASTNAME": "Carnahan",
+    "HONORIFIC": "Representative",
+    "STATE": "MO",
+    "FIRSTNAME": "Russ "
+}, {
+    "PARTY": "Democrat",
+    "_id": 83,
+    "LASTNAME": "Carney",
+    "HONORIFIC": "Representative",
+    "STATE": "PA",
+    "FIRSTNAME": "Christopher "
+}, {
+    "PARTY": "Democrat",
+    "_id": 84,
+    "LASTNAME": "Carper",
+    "HONORIFIC": "Senator",
+    "STATE": "DE",
+    "FIRSTNAME": "Thomas"
+}, {
+    "PARTY": "Democrat",
+    "_id": 85,
+    "LASTNAME": "Carson",
+    "HONORIFIC": "Representative",
+    "STATE": "IN",
+    "FIRSTNAME": "Andre"
+}, {
+    "PARTY": "Democrat",
+    "_id": 86,
+    "LASTNAME": "Carson",
+    "HONORIFIC": "Representative",
+    "STATE": "IN",
+    "FIRSTNAME": "Julia"
+}, {
+    "PARTY": "Republican",
+    "_id": 87,
+    "LASTNAME": "Carter",
+    "HONORIFIC": "Representative",
+    "STATE": "TX",
+    "FIRSTNAME": "John "
+}, {
+    "PARTY": "Democrat",
+    "_id": 88,
+    "LASTNAME": "Casey, Jr.",
+    "HONORIFIC": "Senator",
+    "STATE": "PA",
+    "FIRSTNAME": "Robert"
+}, {
+    "PARTY": "Republican",
+    "_id": 89,
+    "LASTNAME": "Castle",
+    "HONORIFIC": "Representative",
+    "STATE": "DE",
+    "FIRSTNAME": "Michael"
+}, {
+    "PARTY": "Democrat",
+    "_id": 90,
+    "LASTNAME": "Castor",
+    "HONORIFIC": "Representative",
+    "STATE": "FL",
+    "FIRSTNAME": "Kathy"
+}, {
+    "PARTY": "Democrat",
+    "_id": 91,
+    "LASTNAME": "Cazayoux Jr.",
+    "HONORIFIC": "Representative",
+    "STATE": "LA",
+    "FIRSTNAME": "Donald"
+}, {
+    "PARTY": "Republican",
+    "_id": 92,
+    "LASTNAME": "Chabot",
+    "HONORIFIC": "Representative",
+    "STATE": "OH",
+    "FIRSTNAME": "Steve"
+}, {
+    "PARTY": "Republican",
+    "_id": 93,
+    "LASTNAME": "Chambliss",
+    "HONORIFIC": "Senator",
+    "STATE": "GA",
+    "FIRSTNAME": "Saxby"
+}, {
+    "PARTY": "Democrat",
+    "_id": 94,
+    "LASTNAME": "Chandler",
+    "HONORIFIC": "Representative",
+    "STATE": "KY",
+    "FIRSTNAME": "Ben "
+}, {
+    "PARTY": "Democrat",
+    "_id": 95,
+    "LASTNAME": "Childers",
+    "HONORIFIC": "Representative",
+    "STATE": "MS",
+    "FIRSTNAME": "Travis"
+}, {
+    "PARTY": "Democrat",
+    "_id": 96,
+    "LASTNAME": "Christensen",
+    "HONORIFIC": "Representative",
+    "STATE": "VI",
+    "FIRSTNAME": "Donna"
+}, {
+    "PARTY": "Democrat",
+    "_id": 97,
+    "LASTNAME": "Clarke",
+    "HONORIFIC": "Representative",
+    "STATE": "NY",
+    "FIRSTNAME": "Yvette "
+}, {
+    "PARTY": "Democrat",
+    "_id": 98,
+    "LASTNAME": "Clay",
+    "HONORIFIC": "Representative",
+    "STATE": "MO",
+    "FIRSTNAME": "Wm."
+}, {
+    "PARTY": "Democrat",
+    "_id": 99,
+    "LASTNAME": "Cleaver",
+    "HONORIFIC": "Representative",
+    "STATE": "MO",
+    "FIRSTNAME": "Emanuel"
+}, {
+    "PARTY": "Democrat",
+    "_id": 100,
+    "LASTNAME": "Clyburn",
+    "HONORIFIC": "Representative",
+    "STATE": "SC",
+    "FIRSTNAME": "James"
+}]
